@@ -32,7 +32,7 @@ const lQoutes = [
     "author": "I love You 💘"
   },
   {
-    "text": "I wasn’t expecting you. I didn’t think that we would end up together. The single most extraordinary thing I’ve ever done with my life is fall in love with you.",
+    "text": "I wasn’t expecting you. I didn’t think that we would end up together. The single most extraordinary thing I’ve was fall in love with you.",
     "author": "My baby"
   },
   {
@@ -67,5 +67,9 @@ const lQoutes = [
   {
     "text": "If you remember me, then I don’t care if everyone else forgets.",
     "author": "Haruki Murakami"
+  },
+  {
+    "text": "Madam go and Eat.",
+    "author": "🙄"
   },
 ];
